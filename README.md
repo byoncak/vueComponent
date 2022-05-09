@@ -1,6 +1,5 @@
 # vueComponents
-Experimenting... 
 
-+ isolating components from, and for, other projects.
+Where I'll be experimenting, and breaking out individual components from my some of my randomProjects.
 
-💚 Vue is fun!
+💚 Vue is fun
